@@ -12,7 +12,13 @@ public class DadosPrimitivos {
         char inicial = 'N';
         boolean vivoOuMorto = true;
         Long saldoBancario = 99999L; //Valor máximo: 3 trilhões e caralhada
-        
+
+
+        System.out.println(idade);
+        System.out.println(altura);
+        System.out.println(saldoBancario);
+        System.out.println(vivoOuMorto);
+        System.out.println("O saldo bancário é: R$ "+saldoBancario);
 
 
     }
