@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package BatismoDeJava.NivelIntermediario;
 
 //CRIANDO CA CLASSE
 public class Ninja {

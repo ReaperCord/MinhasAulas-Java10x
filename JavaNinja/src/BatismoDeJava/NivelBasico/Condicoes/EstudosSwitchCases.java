@@ -1,4 +1,4 @@
-package NivelBasico.Condicoes;
+package BatismoDeJava.NivelBasico.Condicoes;
 import java.util.Scanner;
 
     /*

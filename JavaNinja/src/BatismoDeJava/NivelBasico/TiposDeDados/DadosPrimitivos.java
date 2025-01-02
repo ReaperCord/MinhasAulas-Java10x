@@ -1,4 +1,4 @@
-package NivelBasico.TiposDeDados;
+package BatismoDeJava.NivelBasico.TiposDeDados;
 
 public class DadosPrimitivos {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package NivelIntermediario;
+package BatismoDeJava.NivelIntermediario;
 
 public class Main {
     public static void main(String[] args) {

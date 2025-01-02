@@ -1,4 +1,4 @@
-package NivelBasico;
+package BatismoDeJava.NivelBasico;
 
 public class Arrays {
     public static void main(String[] args) {
