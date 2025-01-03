@@ -1,4 +1,4 @@
-package BatismoDeJava.NivelBasico.Desafio2;
+package Desafios.Desafio2;
 import java.util.Scanner;
 
 /*

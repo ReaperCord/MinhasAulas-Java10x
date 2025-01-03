@@ -1,4 +1,4 @@
-package BatismoDeJava.NivelBasico.Desafio1;
+package Desafios.Desafio1;
 
 public class Ninjas {
 
