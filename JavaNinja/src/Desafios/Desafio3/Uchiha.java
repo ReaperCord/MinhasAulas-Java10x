@@ -8,7 +8,7 @@ public class Uchiha extends Ninja{
 
     public void MostrarHabilidadeEspecial(Ninja ninja) {
 
-        ninja.ImprimirNinja(ninja);
+        ninja.Mostrarinformacoes(ninja);
         System.out.println("Habilidade especial: " + habilidadeEspecial);
         System.out.println("---------------------------------------------------------");
     }

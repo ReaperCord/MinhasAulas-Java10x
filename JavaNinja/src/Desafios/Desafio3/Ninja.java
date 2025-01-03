@@ -8,7 +8,7 @@ public class Ninja {
     int idade;
 
 
-    public void ImprimirNinja(Ninja ninja) {
+    public void Mostrarinformacoes(Ninja ninja) {
 
         //Validando missão
         if ((idade <= 15 && (dificuldadeMissao == "D" || dificuldadeMissao == "E")) || (idade > 15 && (dificuldadeMissao == "C" || dificuldadeMissao == "B" || dificuldadeMissao == "A" || dificuldadeMissao == "S"))) {
