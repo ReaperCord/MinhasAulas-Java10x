@@ -57,6 +57,14 @@ public class Main {
 
 
 
+        //usando interfaces
+        Boruto Boruto = new Boruto();
+        Boruto.nomeNinja = "Boruto";
+        Boruto.aldeiaNinja = "Folha";
+        Boruto.idadeNinja = 12;
+        Boruto.ReservaDeChakara();
+        Boruto.ativarKarma();
+        Boruto.ativarJougan();
 
 
 

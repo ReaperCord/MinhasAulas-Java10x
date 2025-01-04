@@ -2,7 +2,7 @@ package BatismoDeJava.NivelIntermediario.POO;
 
 public class Ninja {
 
-    String nomeNinja;
+    public String nomeNinja;
     String aldeiaNinja;
     int idadeNinja;
 

@@ -13,7 +13,4 @@ public class Uchiha extends Ninja{
         System.out.println("---------------------------------------------------------");
     }
 
-
-
-
 }

@@ -1,4 +1,5 @@
 package BatismoDeJava.NivelIntermediario;
+import BatismoDeJava.NivelIntermediario.POO.Boruto;
 
 public class Main {
     public static void main(String[] args) {
@@ -42,6 +43,5 @@ public class Main {
             Kakashi.clanNinja = "Hatake";
             Kakashi.rankNinja = "Jounin";
             Kakashi.idadeNinja = 32;
-
     }
 }
