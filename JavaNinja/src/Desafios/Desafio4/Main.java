@@ -6,11 +6,14 @@ public class Main {
 
         NinjaBasico Naruto = new NinjaBasico("Naruto Uzumaki", "Aldeia da Folha", 16);
         Naruto.mostrarInformacoes();
+        Naruto.habilidadeComum();
         Naruto.executarHabilidade();
 
 
         NinjaAvancado Kakashi = new NinjaAvancado("Kakashi Hatake", "Aldeia da Folha", 28, "Jounin", 53);
         Kakashi.mostrarInformacoes();
+        Kakashi.habilidadeComum();
+        Kakashi.habilidadeEspecial();
         Kakashi.executarHabilidade();
 
 

@@ -20,6 +20,14 @@ public class NinjaBasico implements Ninja {
         this.idade = idade;
     }
 
+
+    public void habilidadeComum(){
+        habilidade = "Ataque com Kunai";
+        System.out.println(habilidade);
+    }
+
+
+    //utilizando interface
     @Override
     public void mostrarInformacoes() {
         System.out.println("nome: " + nome + "\naldeia: " + aldeia + "\nidade: " + idade);

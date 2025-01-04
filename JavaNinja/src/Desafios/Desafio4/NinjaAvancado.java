@@ -15,6 +15,13 @@ public class NinjaAvancado extends NinjaBasico implements Ninja {
         this.numeroMissoes = numeroMissoes;
     }
 
+    //habilidade especial do ninja avançado
+    public void habilidadeEspecial() {
+        habilidadeEspecial = "Jutsu bola de fogo!";
+        System.out.println(habilidadeEspecial);
+    }
+
+    //utilizando interface
     @Override
     public void mostrarInformacoes() {
         super.mostrarInformacoes();
