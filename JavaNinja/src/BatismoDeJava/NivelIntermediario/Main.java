@@ -4,7 +4,7 @@ import BatismoDeJava.NivelIntermediario.POO.Boruto;
 public class Main {
     public static void main(String[] args) {
 
-
+// aa
         //Criar ninja a partir de classeNinja
         Ninja Naruto = new Ninja();
             Naruto.nomeNinja = "Naruto";
