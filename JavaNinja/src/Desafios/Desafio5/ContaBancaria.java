@@ -5,7 +5,7 @@ public abstract class ContaBancaria {
     String tipoConta;
     double saldo;
 
-
+    //construtores
     public ContaBancaria() {
     }
 
@@ -15,8 +15,7 @@ public abstract class ContaBancaria {
         this.nome = nome;
     }
 
-
-
+    //metodos uteis
     public String verNome() {
         return nome;
     }
