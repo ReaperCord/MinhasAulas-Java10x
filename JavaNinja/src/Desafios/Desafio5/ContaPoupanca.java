@@ -21,7 +21,7 @@ public class ContaPoupanca extends ContaBancaria implements Conta{
 
        if(valorDeposito > 0){
            valorDepositado = valorDeposito-((valorDeposito * taxaAdministrativa)/100);
-           valorDeposito = saldo += valorDepositado;
+           saldo += valorDepositado;
 
            System.out.println("______________Deposito realizado_______________");
            System.out.println("Os valores depositados tem uma taxa administrativa de: "+ taxaAdministrativa + "%" + "\nValor liquido depositado: " + valorDepositado);
