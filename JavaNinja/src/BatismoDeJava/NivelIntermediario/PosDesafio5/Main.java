@@ -18,5 +18,18 @@ public class Main {
         sasuke.tacarKunai();
         sasuke.inteligenciaDeCombate(144);
 
+
+
+
+        // missoes
+
+        Missoes missao1 = new Missoes("Resgate de cachorro", RankDeMissoes.D);
+        missao1.exibirDetalhes();
+
+        Missoes missao2 = new Missoes("Derrotar o demônio da nevoa oculta", RankDeMissoes.A);
+        missao2.exibirDetalhes();
+
+
+
     }
 }
